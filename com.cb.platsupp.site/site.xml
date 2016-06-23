@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-
-   <description url="http://eclipse.coffee-bytes.com/update-site/">
+   <description>
       Eclipse Update Site for Coffee-Bytes Platform Support features.
    </description>
-   
-   <feature url="features/com.cb.eclipse.folding_1.0.5.a.jar" id="com.cb.eclipse.folding" version="1.0.5.a">
-      <category name="editor_support"/>
+   <feature url="features/com.cb.eclipse.folding_1.0.7.jar" id="com.cb.eclipse.folding" version="1.0.7">
+      <category name="Eclipse Java Code Folding Ex"/>
    </feature>
-   <category-def name="editor_support" label="Editor Support">
+   <category-def name="Eclipse Java Code Folding Ex" label="Eclipse Java Code Folding Ex">
       <description>
-         Features that extend/improve the Eclipse editors
+         Features that extend/improve the Eclipse editors.
       </description>
    </category-def>
 </site>

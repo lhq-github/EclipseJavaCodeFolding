@@ -2,10 +2,9 @@
 <feature
       id="com.cb.eclipse.folding"
       label="Coffee Bytes Code Folding"
-      version="1.0.5.a"
+      version="1.0.7"
       provider-name="Coffee-Bytes"
       primary="true">
-
    <install-handler/>
 
    <description url="http://www.coffee-bytes.com/servlet/PlatformSupport">
@@ -36,7 +35,6 @@ this feature is licensed.
 
    <requires>
       <import plugin="org.eclipse.ui"/>
-      <import plugin="org.eclipse.core.runtime.compatibility"/>
       <import plugin="org.eclipse.jdt.ui"/>
       <import plugin="org.eclipse.jface.text"/>
       <import plugin="org.eclipse.ui.workbench.texteditor"/>
@@ -51,6 +49,6 @@ this feature is licensed.
          id="com.cb.eclipse.folding"
          download-size="0"
          install-size="0"
-         version="1.0.5.a"/>
+         version="0.0.0"/>
 
 </feature>
