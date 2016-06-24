@@ -33,7 +33,7 @@ this feature is licensed.
    </license>
 
    <url>
-      <update label="Coffee-Bytes Platform Support" url="https://github.com/washheart/EclipseJavaCodeFolding/tree/master/com.cb.platsupp.site"/>
+      <update label="Coffee-Bytes Platform Support" url="https://washheart.github.io/EclipseJavaCodeFolding/update/"/>
    </url>
 
    <plugin
