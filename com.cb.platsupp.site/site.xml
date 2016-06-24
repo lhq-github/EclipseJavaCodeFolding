@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description>
+   <description url="https://github.com/washheart/EclipseJavaCodeFolding/tree/master/com.cb.platsupp.site">
       Eclipse Update Site for Coffee-Bytes Platform Support features.
    </description>
-   <feature url="features/com.cb.eclipse.folding_1.0.7.jar" id="com.cb.eclipse.folding" version="1.0.7">
+   <feature url="features/com.cb.eclipse.folding_1.0.8.jar" id="com.cb.eclipse.folding" version="1.0.8">
       <category name="Eclipse Java Code Folding Ex"/>
    </feature>
    <category-def name="Eclipse Java Code Folding Ex" label="Eclipse Java Code Folding Ex">

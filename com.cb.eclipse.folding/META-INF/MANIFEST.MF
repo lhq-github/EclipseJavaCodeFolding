@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Coffee Bytes Code Folding
 Bundle-SymbolicName: com.cb.eclipse.folding;singleton:=true
-Bundle-Version: 1.0.7
+Bundle-Version: 1.0.8
 Bundle-Activator: com.cb.eclipse.folding.FoldingPlugin
 Bundle-Vendor: Coffee Bytes
 Bundle-Localization: plugin
