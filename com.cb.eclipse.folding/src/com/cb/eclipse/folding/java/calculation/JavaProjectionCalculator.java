@@ -62,9 +62,8 @@ public class JavaProjectionCalculator {
 	 */
 	public Map findAnnotations(IJavaElement parentElement) {
 
+		Map result = new HashMap();
 		try {
-			Map result = new HashMap();
-
 			findAnnotations((IJavaElement) parentElement, result);
 			return result;
 		}
@@ -74,7 +73,7 @@ public class JavaProjectionCalculator {
 		}
 		catch (BadLocationException e) {
 		}
-		return null;
+		return result;
 	}
 
 	/**
